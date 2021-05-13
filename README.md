@@ -1,5 +1,5 @@
 # Tutorial: U-Net for Image Segmentation 
-In this tutorial, a few advanced practices of <mark>U-Net usage</mark> are included.<br/>
+In this tutorial, a few advanced practices of <span style="background-color: #FFFF00">U-Net usage</span> are included.<br/>
 Especially, I will see and follow some documents related to ```image segmentation```.<br/>
 <br/>
 Before entering in, it would be great helpful for you to refer to [this basic U-Net tutorial](https://github.com/DoranLyong/U-NET-tutorial).<br/>
